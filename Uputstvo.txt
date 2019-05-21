@@ -1,0 +1,21 @@
+0. Otpakovati arhivu (Direktno u direktorijum)
+
+// BACK END
+
+0. Napraviti bazu na osnovu fajla "init.cyp"
+1. Otvorite folder work/back
+2. Namestiti Neo4j port u "app.js" i sifru za pristup bazi
+3. Unutar foldera back otvoriti Command-Line (CMD)
+4. Izvrsiti u CMD "npm install"
+5. Izvrsiti u CMD "node app" (Kako bi se pokrenuo server, ne zatvarati ovaj prozor)
+
+// FRONT END
+
+6. Otvoriti folder work/front
+7. Unutar foldera front otvoriti Command-Line (CMD)
+8. Izvrsiti u CMD "npm install"
+9. Izvrsiti u CMD "npm run serve"
+10. Otvoriti u pretrazivacu link : http://localhost:8080
+11. Mozete se ulogovati koristeci
+	USERNAME : taki@mail.com
+	PASSWORD : 12345678
